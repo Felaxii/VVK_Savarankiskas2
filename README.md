@@ -1,1 +1,4 @@
-# VVK_Savarankiskas2
+﻿Žygimantas Grušas, VVK, 2023.
+
+# VVK Studentų balų forma
+
